@@ -7,7 +7,7 @@ A simple modified forked script to compile a minimalistic linux kernel with busy
 
 ## Appendix
 
-For Manjaro and Arch users install only:
+For Manjaro and Arch users only:
 
 Change line 20 
 
