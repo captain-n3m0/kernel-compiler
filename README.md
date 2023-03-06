@@ -17,7 +17,7 @@ Requirements Only For Arch and Manjaro users:
 
 sudo pacman -S musl kernel-headers-musl
 
-## Badges
+## License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
